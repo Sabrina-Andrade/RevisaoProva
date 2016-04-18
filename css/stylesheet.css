@@ -1,0 +1,173 @@
+#page {
+    width: 250px;
+    padding: 20px 0px 20px 0px;
+    margin: 10px auto;
+    border: 2px solid black;
+    color: white;
+    background-color: bisque;
+    box-shadow: 3px 3px 3px rgba(0,0,0,.5); 
+    text-align: center;
+}
+
+.botao {
+    font-size: 14px;
+    color: white;
+    background-color: gainsboro;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 2px 20px;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif; 
+}
+
+.botao:hover {
+    background-color: darkgrey;
+}
+
+.lista {
+    border-collapse: collapse;
+    margin-left: 20px;
+}
+
+.lista td {
+    border: 1px solid #999;
+    background-color: antiquewhite;
+}
+
+
+.botao2 {
+    float: center;
+    background-color: #ccc;
+    color: #444;
+    padding: 5px 15px;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 10px;
+    margin: 10px auto;
+}
+
+.botao3 {
+    float:center;
+    background-color: #ccc;
+    color: #444;
+    padding: 5px 15px;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 10px;
+    margin: 2px auto;
+}
+
+#pag {
+    width: 250px;
+    padding: 20px 0px 20px 0px;
+    margin: 0px auto;
+    border: 2px solid cornflowerblue;
+    color: black;
+    background-color: bisque;
+    box-shadow: 3px 3px 3px rgba(0,0,0,.5);
+    text-align: center;
+}
+
+.forLab {
+width: 100px;
+border-color: black;
+margin:10px auto;
+}
+
+.buttonAdd {
+    font-size: 12px;
+    color: white;
+    background-color: cornflowerblue;
+    text-transform: capitalize;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+     
+}
+.buttonCancel{
+    font-size: 12px;
+    color: white;
+    background-color: cornflowerblue;
+    text-transform: capitalize;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+     
+}
+
+
+
+.bot{
+    font-size: 9px;
+    color: black;
+    background-color:silver;
+    text-transform: uppercase;
+    margin-left:10%;
+    margin: 0px auto;
+    display: inline-block;
+    border-color: black;
+    padding: 10px 20px;
+    text-decoration:none;
+    font-family: Helvetica, Arial, sans-serif;
+   
+     
+}
+.bot2 {
+    font-size: 9px;
+    color: black;
+    background-color:silver;
+    text-transform: uppercase;
+    margin-left:10%;
+    margin: 5px auto;
+    display: inline-block;
+    border-color: black;
+    padding: 10px 20px;
+    text-decoration:none;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#p {
+    width: 250px;
+	padding: 1%;
+	text-align: center;
+    border: 2px solid black;
+    margin: 20px auto;
+    background-color: white;
+    color: black;
+	height: 200px;
+    background-color:gainsboro;
+    box-shadow: 3px 3px 3px rgba(0,0,0,.5); 
+    
+}
+
+lista2 {
+    border-collapse: collapse;
+
+    
+    
+}
+
+lista2, th, td {
+    border: 1px solid #999;
+    float:center;
+    align-items: center;
+    margin: 0 auto;
+    
+    
+    
+}
+.lista2 {
+    margin-left: 50px;
+    background-color: silver;
+    
+}
+   
+    
+
+    
+   
+   
+
+
